@@ -1,3 +1,9 @@
+import { Home } from './pages';
+
 export default function App() {
-	return <div>App</div>;
+	return (
+		<main className="max-w-[114rem] mx-auto my-0">
+			<Home />
+		</main>
+	);
 }
