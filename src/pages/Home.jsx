@@ -1,7 +1,9 @@
-import hero from '../assets/hero.png';
+import { useNavigate } from 'react-router-dom';
 import { Button } from '../components';
+import hero from '../assets/hero.png';
 
 export default function Home() {
+	const navigate = useNavigate();
 	return (
 		<section className="lg:h-screen flex flex-col lg:flex-row gap-4 items-center py-4 lg:py-0 px-4 lg:px-12">
 			<div className="text-stone-950 flex flex-col gap-2 lg:gap-4 items-center text-center lg:text-left lg:items-start  lg:w-1/2">
@@ -17,7 +19,7 @@ export default function Home() {
 					no time. Our app ensures you enjoy hot, fresh pizza with minimal wait.
 					Quick, easy, and delicious – that's our promise to you.
 				</p>
-				<Button>Get Your Pizza Now</Button>
+				<Button onClick={() => navigate('/app')}>Get Your Pizza Now</Button>
 			</div>
 			<div className="lg:w-1/2">
 				<img
