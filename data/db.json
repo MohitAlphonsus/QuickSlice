@@ -5,7 +5,7 @@
 			"name": "Farmer's Market",
 			"ingredients": ["Capsicum ", "Onion "],
 			"price": "349",
-			"image": "assets/pizza-1.jpg",
+			"image": "/data/assets/pizza-1.jpg",
 			"category": "veg"
 		},
 		{
@@ -13,7 +13,7 @@
 			"name": "Magic Mushrooms",
 			"ingredients": ["Mushroom", "Capsicum", "Tomato"],
 			"price": "469",
-			"image": "assets/pizza-2.jpg",
+			"image": "/data/assets/pizza-2.jpg",
 			"category": "veg"
 		},
 		{
@@ -21,7 +21,7 @@
 			"name": "Butter Chicken",
 			"ingredients": ["Tandoori Chicken", "Capsicum", "Tomato", "Makhni Sauce"],
 			"price": "579",
-			"image": "assets/pizza-n-10.jpg",
+			"image": "/data/assets/pizza-n-10.jpg",
 			"category": "non-veg"
 		},
 		{
@@ -29,7 +29,7 @@
 			"name": "Paneer Tikka",
 			"ingredients": ["Paneer Tikka", "Onion"],
 			"price": "469",
-			"image": "assets/pizza-4.jpg",
+			"image": "/data/assets/pizza-4.jpg",
 			"category": "veg"
 		},
 		{
@@ -37,7 +37,7 @@
 			"name": "BBQ Chicken",
 			"ingredients": ["BBQ Chicken", "Golden Corn", "Spicy Jalapeno", "Tomato"],
 			"price": "499",
-			"image": "assets/pizza-n-3.jpg",
+			"image": "/data/assets/pizza-n-3.jpg",
 			"category": "non-veg"
 		},
 		{
@@ -50,7 +50,7 @@
 				"Golden Corn"
 			],
 			"price": "529",
-			"image": "assets/pizza-6.jpg",
+			"image": "/data/assets/pizza-6.jpg",
 			"category": "veg"
 		},
 		{
@@ -63,7 +63,7 @@
 				"Golden Corn"
 			],
 			"price": "529",
-			"image": "assets/pizza-8.jpg",
+			"image": "/data/assets/pizza-8.jpg",
 			"category": "veg"
 		},
 		{
@@ -76,7 +76,7 @@
 				"Spicy Jalapeno"
 			],
 			"price": "579",
-			"image": "assets/pizza-n-7.jpg",
+			"image": "/data/assets/pizza-n-7.jpg",
 			"category": "non-veg"
 		},
 		{
@@ -90,7 +90,7 @@
 				"Onion"
 			],
 			"price": "599",
-			"image": "assets/pizza-9.jpg",
+			"image": "/data/assets/pizza-9.jpg",
 			"category": "veg"
 		},
 		{
@@ -103,7 +103,7 @@
 				"Black Olive"
 			],
 			"price": "579",
-			"image": "assets/pizza-n-5.jpg",
+			"image": "/data/assets/pizza-n-5.jpg",
 			"category": "non-veg"
 		},
 		{
@@ -111,7 +111,7 @@
 			"name": "Awesome Threesome",
 			"ingredients": ["Black Olive", "Golden Corn", "Capsicum"],
 			"price": "469",
-			"image": "assets/pizza-5.jpg",
+			"image": "/data/assets/pizza-5.jpg",
 			"category": "veg"
 		},
 		{
@@ -127,7 +127,7 @@
 				"Onion"
 			],
 			"price": "599",
-			"image": "assets/pizza-10.jpg",
+			"image": "/data/assets/pizza-10.jpg",
 			"category": "veg"
 		},
 		{
@@ -135,7 +135,7 @@
 			"name": "Cowboy Chicken",
 			"ingredients": ["Herb Grilled Chicken", "Golden Corn"],
 			"price": "429",
-			"image": "assets/pizza-n-1.jpg",
+			"image": "/data/assets/pizza-n-1.jpg",
 			"category": "non-veg"
 		},
 		{
@@ -148,7 +148,7 @@
 				"Onion"
 			],
 			"price": "499",
-			"image": "assets/pizza-n-2.jpg",
+			"image": "/data/assets/pizza-n-2.jpg",
 			"category": "non-veg"
 		},
 		{
@@ -161,7 +161,7 @@
 				"Onion"
 			],
 			"price": "499",
-			"image": "assets/pizza-n-4.jpg",
+			"image": "/data/assets/pizza-n-4.jpg",
 			"category": "non-veg"
 		},
 		{
@@ -175,7 +175,7 @@
 				"Onion"
 			],
 			"price": "529",
-			"image": "assets/pizza-7.jpg",
+			"image": "/data/assets/pizza-7.jpg",
 			"category": "veg"
 		},
 		{
@@ -188,7 +188,7 @@
 				"Tomato"
 			],
 			"price": "579",
-			"image": "assets/pizza-n-6.jpg",
+			"image": "/data/assets/pizza-n-6.jpg",
 			"category": "non-veg"
 		},
 		{
@@ -196,7 +196,7 @@
 			"name": "Spicy Mexicano",
 			"ingredients": ["Red Paprika", "Spicy Jalapeno", "Golden Corn", "Onion"],
 			"price": "469",
-			"image": "assets/pizza-3.jpg",
+			"image": "/data/assets/pizza-3.jpg",
 			"category": "veg"
 		},
 		{
@@ -204,7 +204,7 @@
 			"name": "Classic Pepperoni",
 			"ingredients": ["Loaded with 100% Pork Pepperoni", " Extra Cheese"],
 			"price": "579",
-			"image": "assets/pizza-n-8.jpg",
+			"image": "/data/assets/pizza-n-8.jpg",
 			"category": "non-veg"
 		},
 		{
@@ -220,7 +220,7 @@
 				"Tomato"
 			],
 			"price": "649",
-			"image": "assets/pizza-n-9.jpg",
+			"image": "/data/assets/pizza-n-9.jpg",
 			"category": "non-veg"
 		}
 	],
