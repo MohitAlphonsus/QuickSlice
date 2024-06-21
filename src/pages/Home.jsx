@@ -19,7 +19,9 @@ export default function Home() {
 					no time. Our app ensures you enjoy hot, fresh pizza with minimal wait.
 					Quick, easy, and delicious – that's our promise to you.
 				</p>
-				<Button onClick={() => navigate('/app')}>Get Your Pizza Now</Button>
+				<Button onClick={() => navigate('/app/menu')}>
+					Get Your Pizza Now
+				</Button>
 			</div>
 			<div className="lg:w-1/2">
 				<img

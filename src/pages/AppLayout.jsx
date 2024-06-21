@@ -1,13 +1,17 @@
-import { Outlet } from 'react-router-dom';
-import { Header } from '../components';
+import { Outlet, useNavigation } from 'react-router-dom';
+import { Header, Loading } from '../components';
 import { CartOverview } from '../features';
+import SearchOrder from '../features/order/SearchOrder';
 export default function AppLayout() {
+	const navigation = useNavigation();
+	const isLoading = navigation.state === 'loading';
 	return (
 		<section>
+			{isLoading && <Loading />}
 			<Header />
+			<SearchOrder />
 
-			<main className="p-4">
-				<h1>Content</h1>
+			<main className="px-4 pt-4 pb-16">
 				<Outlet />
 			</main>
 

@@ -1,228 +1,332 @@
 {
-	"menu": [
-		{
-			"id": "pizza-$1",
-			"name": "Farmer's Market",
-			"ingredients": ["Capsicum ", "Onion "],
-			"price": "349",
-			"image": "/data/assets/pizza-1.jpg",
-			"category": "veg"
-		},
-		{
-			"id": "pizza-$2",
-			"name": "Magic Mushrooms",
-			"ingredients": ["Mushroom", "Capsicum", "Tomato"],
-			"price": "469",
-			"image": "/data/assets/pizza-2.jpg",
-			"category": "veg"
-		},
-		{
-			"id": "pizza-$3",
-			"name": "Butter Chicken",
-			"ingredients": ["Tandoori Chicken", "Capsicum", "Tomato", "Makhni Sauce"],
-			"price": "579",
-			"image": "/data/assets/pizza-n-10.jpg",
-			"category": "non-veg"
-		},
-		{
-			"id": "pizza-$4",
-			"name": "Paneer Tikka",
-			"ingredients": ["Paneer Tikka", "Onion"],
-			"price": "469",
-			"image": "/data/assets/pizza-4.jpg",
-			"category": "veg"
-		},
-		{
-			"id": "pizza-$5",
-			"name": "BBQ Chicken",
-			"ingredients": ["BBQ Chicken", "Golden Corn", "Spicy Jalapeno", "Tomato"],
-			"price": "499",
-			"image": "/data/assets/pizza-n-3.jpg",
-			"category": "non-veg"
-		},
-		{
-			"id": "pizza-$6",
-			"name": "Italian Garden",
-			"ingredients": [
-				"Mushroom ",
-				"Black Olive",
-				"Spicy Jalapeno",
-				"Golden Corn"
-			],
-			"price": "529",
-			"image": "/data/assets/pizza-6.jpg",
-			"category": "veg"
-		},
-		{
-			"id": "pizza-$7",
-			"name": "Peri Peri Paneer",
-			"ingredients": [
-				"Peri Peri Paneer",
-				"Red Paprika",
-				"Capsicum",
-				"Golden Corn"
-			],
-			"price": "529",
-			"image": "/data/assets/pizza-8.jpg",
-			"category": "veg"
-		},
-		{
-			"id": "pizza-$8",
-			"name": "Fire Me Up Chicken",
-			"ingredients": [
-				"Spicy Peri Peri Chicken",
-				"Herb Chicken",
-				"Red Paprika",
-				"Spicy Jalapeno"
-			],
-			"price": "579",
-			"image": "/data/assets/pizza-n-7.jpg",
-			"category": "non-veg"
-		},
-		{
-			"id": "pizza-$9",
-			"name": "Paneer Overload",
-			"ingredients": [
-				"Peri Peri Paneer",
-				"Paneer Tikka",
-				"Spicy Jalapeno",
-				"Tomato",
-				"Onion"
-			],
-			"price": "599",
-			"image": "/data/assets/pizza-9.jpg",
-			"category": "veg"
-		},
-		{
-			"id": "pizza-$10",
-			"name": "Double Trouble Chicken",
-			"ingredients": [
-				"Herb Grilled Chicken",
-				"Chicken Tikka",
-				"Capsicum",
-				"Black Olive"
-			],
-			"price": "579",
-			"image": "/data/assets/pizza-n-5.jpg",
-			"category": "non-veg"
-		},
-		{
-			"id": "pizza-$11",
-			"name": "Awesome Threesome",
-			"ingredients": ["Black Olive", "Golden Corn", "Capsicum"],
-			"price": "469",
-			"image": "/data/assets/pizza-5.jpg",
-			"category": "veg"
-		},
-		{
-			"id": "pizza-$12",
-			"name": "Crowded House",
-			"ingredients": [
-				"Extra Cheese",
-				"Paneer Cubes",
-				"Black Olive",
-				"Red Paprika",
-				"Capsicum",
-				"Golden Corn",
-				"Onion"
-			],
-			"price": "599",
-			"image": "/data/assets/pizza-10.jpg",
-			"category": "veg"
-		},
-		{
-			"id": "pizza-$13",
-			"name": "Cowboy Chicken",
-			"ingredients": ["Herb Grilled Chicken", "Golden Corn"],
-			"price": "429",
-			"image": "/data/assets/pizza-n-1.jpg",
-			"category": "non-veg"
-		},
-		{
-			"id": "pizza-$14",
-			"name": "Peri Peri Chicken",
-			"ingredients": [
-				"Peri Peri Chicken",
-				"Golden Corn",
-				"Red Paprika",
-				"Onion"
-			],
-			"price": "499",
-			"image": "/data/assets/pizza-n-2.jpg",
-			"category": "non-veg"
-		},
-		{
-			"id": "pizza-$15",
-			"name": "Chicken Mexicano",
-			"ingredients": [
-				"Herb Grilled Chicken",
-				"Capsicum",
-				"Spicy Jalapeno",
-				"Onion"
-			],
-			"price": "499",
-			"image": "/data/assets/pizza-n-4.jpg",
-			"category": "non-veg"
-		},
-		{
-			"id": "pizza-$16",
-			"name": "Veggie Paradise ",
-			"ingredients": [
-				"Black Olive",
-				"Red Paprika",
-				"Capsicum",
-				"Tomato",
-				"Onion"
-			],
-			"price": "529",
-			"image": "/data/assets/pizza-7.jpg",
-			"category": "veg"
-		},
-		{
-			"id": "pizza-$17",
-			"name": "Chicken Italiana",
-			"ingredients": [
-				"Garlic Roast Chicken",
-				"Smokey BBQ Chicken",
-				"Mushroom",
-				"Tomato"
-			],
-			"price": "579",
-			"image": "/data/assets/pizza-n-6.jpg",
-			"category": "non-veg"
-		},
-		{
-			"id": "pizza-$18",
-			"name": "Spicy Mexicano",
-			"ingredients": ["Red Paprika", "Spicy Jalapeno", "Golden Corn", "Onion"],
-			"price": "469",
-			"image": "/data/assets/pizza-3.jpg",
-			"category": "veg"
-		},
-		{
-			"id": "pizza-$19",
-			"name": "Classic Pepperoni",
-			"ingredients": ["Loaded with 100% Pork Pepperoni", " Extra Cheese"],
-			"price": "579",
-			"image": "/data/assets/pizza-n-8.jpg",
-			"category": "non-veg"
-		},
-		{
-			"id": "pizza-$20",
-			"name": "Mojo's Chicken Special",
-			"ingredients": [
-				"BBQ Chicken",
-				"Chicken Tikka",
-				"Herb Grilled Chicken",
-				"Mushroom",
-				"Spicy Jalapeno",
-				"Golden Corn",
-				"Tomato"
-			],
-			"price": "649",
-			"image": "/data/assets/pizza-n-9.jpg",
-			"category": "non-veg"
-		}
-	],
-	"order": []
+  "menu": [
+    {
+      "id": "pizza-$1",
+      "name": "Farmer's Market",
+      "ingredients": [
+        "Capsicum ",
+        "Onion "
+      ],
+      "price": "349",
+      "image": "/data/assets/pizza-1.jpg",
+      "category": "veg"
+    },
+    {
+      "id": "pizza-$2",
+      "name": "Magic Mushrooms",
+      "ingredients": [
+        "Mushroom",
+        "Capsicum",
+        "Tomato"
+      ],
+      "price": "469",
+      "image": "/data/assets/pizza-2.jpg",
+      "category": "veg"
+    },
+    {
+      "id": "pizza-$3",
+      "name": "Butter Chicken",
+      "ingredients": [
+        "Tandoori Chicken",
+        "Capsicum",
+        "Tomato",
+        "Makhni Sauce"
+      ],
+      "price": "579",
+      "image": "/data/assets/pizza-n-10.jpg",
+      "category": "non-veg"
+    },
+    {
+      "id": "pizza-$4",
+      "name": "Paneer Tikka",
+      "ingredients": [
+        "Paneer Tikka",
+        "Onion"
+      ],
+      "price": "469",
+      "image": "/data/assets/pizza-4.jpg",
+      "category": "veg"
+    },
+    {
+      "id": "pizza-$5",
+      "name": "BBQ Chicken",
+      "ingredients": [
+        "BBQ Chicken",
+        "Golden Corn",
+        "Spicy Jalapeno",
+        "Tomato"
+      ],
+      "price": "499",
+      "image": "/data/assets/pizza-n-3.jpg",
+      "category": "non-veg"
+    },
+    {
+      "id": "pizza-$6",
+      "name": "Italian Garden",
+      "ingredients": [
+        "Mushroom ",
+        "Black Olive",
+        "Spicy Jalapeno",
+        "Golden Corn"
+      ],
+      "price": "529",
+      "image": "/data/assets/pizza-6.jpg",
+      "category": "veg"
+    },
+    {
+      "id": "pizza-$7",
+      "name": "Peri Peri Paneer",
+      "ingredients": [
+        "Peri Peri Paneer",
+        "Red Paprika",
+        "Capsicum",
+        "Golden Corn"
+      ],
+      "price": "529",
+      "image": "/data/assets/pizza-8.jpg",
+      "category": "veg"
+    },
+    {
+      "id": "pizza-$8",
+      "name": "Fire Me Up Chicken",
+      "ingredients": [
+        "Spicy Peri Peri Chicken",
+        "Herb Chicken",
+        "Red Paprika",
+        "Spicy Jalapeno"
+      ],
+      "price": "579",
+      "image": "/data/assets/pizza-n-7.jpg",
+      "category": "non-veg"
+    },
+    {
+      "id": "pizza-$9",
+      "name": "Paneer Overload",
+      "ingredients": [
+        "Peri Peri Paneer",
+        "Paneer Tikka",
+        "Spicy Jalapeno",
+        "Tomato",
+        "Onion"
+      ],
+      "price": "599",
+      "image": "/data/assets/pizza-9.jpg",
+      "category": "veg"
+    },
+    {
+      "id": "pizza-$10",
+      "name": "Double Trouble Chicken",
+      "ingredients": [
+        "Herb Grilled Chicken",
+        "Chicken Tikka",
+        "Capsicum",
+        "Black Olive"
+      ],
+      "price": "579",
+      "image": "/data/assets/pizza-n-5.jpg",
+      "category": "non-veg"
+    },
+    {
+      "id": "pizza-$11",
+      "name": "Awesome Threesome",
+      "ingredients": [
+        "Black Olive",
+        "Golden Corn",
+        "Capsicum"
+      ],
+      "price": "469",
+      "image": "/data/assets/pizza-5.jpg",
+      "category": "veg"
+    },
+    {
+      "id": "pizza-$12",
+      "name": "Crowded House",
+      "ingredients": [
+        "Extra Cheese",
+        "Paneer Cubes",
+        "Black Olive",
+        "Red Paprika",
+        "Capsicum",
+        "Golden Corn",
+        "Onion"
+      ],
+      "price": "599",
+      "image": "/data/assets/pizza-10.jpg",
+      "category": "veg"
+    },
+    {
+      "id": "pizza-$13",
+      "name": "Cowboy Chicken",
+      "ingredients": [
+        "Herb Grilled Chicken",
+        "Golden Corn"
+      ],
+      "price": "429",
+      "image": "/data/assets/pizza-n-1.jpg",
+      "category": "non-veg"
+    },
+    {
+      "id": "pizza-$14",
+      "name": "Peri Peri Chicken",
+      "ingredients": [
+        "Peri Peri Chicken",
+        "Golden Corn",
+        "Red Paprika",
+        "Onion"
+      ],
+      "price": "499",
+      "image": "/data/assets/pizza-n-2.jpg",
+      "category": "non-veg"
+    },
+    {
+      "id": "pizza-$15",
+      "name": "Chicken Mexicano",
+      "ingredients": [
+        "Herb Grilled Chicken",
+        "Capsicum",
+        "Spicy Jalapeno",
+        "Onion"
+      ],
+      "price": "499",
+      "image": "/data/assets/pizza-n-4.jpg",
+      "category": "non-veg"
+    },
+    {
+      "id": "pizza-$16",
+      "name": "Veggie Paradise ",
+      "ingredients": [
+        "Black Olive",
+        "Red Paprika",
+        "Capsicum",
+        "Tomato",
+        "Onion"
+      ],
+      "price": "529",
+      "image": "/data/assets/pizza-7.jpg",
+      "category": "veg"
+    },
+    {
+      "id": "pizza-$17",
+      "name": "Chicken Italiana",
+      "ingredients": [
+        "Garlic Roast Chicken",
+        "Smokey BBQ Chicken",
+        "Mushroom",
+        "Tomato"
+      ],
+      "price": "579",
+      "image": "/data/assets/pizza-n-6.jpg",
+      "category": "non-veg"
+    },
+    {
+      "id": "pizza-$18",
+      "name": "Spicy Mexicano",
+      "ingredients": [
+        "Red Paprika",
+        "Spicy Jalapeno",
+        "Golden Corn",
+        "Onion"
+      ],
+      "price": "469",
+      "image": "/data/assets/pizza-3.jpg",
+      "category": "veg"
+    },
+    {
+      "id": "pizza-$19",
+      "name": "Classic Pepperoni",
+      "ingredients": [
+        "Loaded with 100% Pork Pepperoni",
+        " Extra Cheese"
+      ],
+      "price": "579",
+      "image": "/data/assets/pizza-n-8.jpg",
+      "category": "non-veg"
+    },
+    {
+      "id": "pizza-$20",
+      "name": "Mojo's Chicken Special",
+      "ingredients": [
+        "BBQ Chicken",
+        "Chicken Tikka",
+        "Herb Grilled Chicken",
+        "Mushroom",
+        "Spicy Jalapeno",
+        "Golden Corn",
+        "Tomato"
+      ],
+      "price": "649",
+      "image": "/data/assets/pizza-n-9.jpg",
+      "category": "non-veg"
+    }
+  ],
+  "order": [
+    {
+      "id": "ABCDEF",
+      "customer": "Mohit",
+      "phone": "123456789",
+      "address": "Haregaon, Shrirampur, India",
+      "priority": true,
+      "estimatedDelivery": "2027-04-25T10:00:00",
+      "cart": [
+        {
+          "pizzaId": 7,
+          "name": "Napoli",
+          "quantity": 3,
+          "unitPrice": 16,
+          "totalPrice": 48
+        },
+        {
+          "pizzaId": 5,
+          "name": "Diavola",
+          "quantity": 2,
+          "unitPrice": 16,
+          "totalPrice": 32
+        },
+        {
+          "pizzaId": 3,
+          "name": "Romana",
+          "quantity": 1,
+          "unitPrice": 15,
+          "totalPrice": 15
+        }
+      ],
+      "position": "-9.000,38.000",
+      "orderPrice": 95,
+      "priorityPrice": 19
+    },
+    {
+      "id": "924e",
+      "customer": "Mohit",
+      "phone": "1458724548",
+      "address": "somewhere in middle of ocean",
+      "priority": true,
+      "cart": [
+        {
+          "pizzaId": 12,
+          "name": "Mediterranean",
+          "quantity": 2,
+          "unitPrice": 16,
+          "totalPrice": 32
+        },
+        {
+          "pizzaId": 6,
+          "name": "Vegetale",
+          "quantity": 1,
+          "unitPrice": 13,
+          "totalPrice": 13
+        },
+        {
+          "pizzaId": 11,
+          "name": "Spinach and Mushroom",
+          "quantity": 1,
+          "unitPrice": 15,
+          "totalPrice": 15
+        }
+      ],
+      "estimatedDelivery": "2027-04-25T10:00:00",
+      "position": "-9.000,38.000",
+      "orderPrice": 95,
+      "priorityPrice": 19
+    }
+  ]
 }

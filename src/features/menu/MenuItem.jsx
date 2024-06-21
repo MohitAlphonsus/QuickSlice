@@ -16,7 +16,7 @@ export default function MenuItem({ pizza }) {
 					<span className="text-xs font-semibold uppercase">{category}</span>
 				</div>
 				<h4 className="text-2xl">{name}</h4>
-				<p className="italic text-lg text-stone-700">
+				<p className="italic text-sm text-stone-700">
 					{ingredients.map(i => `${i}, `)}
 				</p>
 				<span className="text-xl font-semibold mt-auto">
